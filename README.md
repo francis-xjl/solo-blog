@@ -10,6 +10,7 @@ xiajl.cn
 
 ### 最新
 
+* [Hotspot JVM 1.8参数查阅手册](http://xiajl.cn/articles/2019/11/17/1573940700229.html)
 * [老家买房记](http://xiajl.cn/articles/2019/09/15/1568511863131.html)
 * [Selenium自动化测试实践](http://xiajl.cn/articles/2019/06/01/1559355283837.html)
 * [清晨专注时间管理](http://xiajl.cn/articles/2019/05/25/1558740902652.html)
@@ -29,12 +30,12 @@ xiajl.cn
 * [常见树形数据结构总结](http://xiajl.cn/articles/2018/09/02/1535844595733.html)
 * [高性能MySQL之索引小结](http://xiajl.cn/articles/2018/08/27/1535364616589.html)
 * [rocketmq超时重试导致的重复消费问题处理](http://xiajl.cn/articles/2018/08/14/1534255450988.html)
-* [JVM学习总结-垃圾回收器](http://xiajl.cn/articles/2018/08/06/1533562095087.html)
 
 ### 热门
 
-* [变量到底该如何命名？](http://xiajl.cn/articles/2018/05/16/1526485744298.html)
+* [JVM学习总结-垃圾回收器](http://xiajl.cn/articles/2018/08/06/1533562095087.html)
 * [备份博客数据解决方案](http://xiajl.cn/articles/2018/05/15/1526351615843.html)
+* [变量到底该如何命名？](http://xiajl.cn/articles/2018/05/16/1526485744298.html)
 * [愿你走出半生，归来仍是少年](http://xiajl.cn/articles/2018/05/15/1526338897652.html)
 * [mongodb学习与使用总结](http://xiajl.cn/articles/2018/06/12/1528759648613.html)
 * [使用windows自带计划任务备份博客](http://xiajl.cn/articles/2018/05/20/1526783784371.html)
